@@ -144,34 +144,43 @@
         "padding_bottom": 36
       }
     },
-    "newsletter_g4dxaP": {
-      "type": "newsletter",
+    "rich_text_PdKm43": {
+      "type": "rich-text",
       "blocks": {
-        "heading_gHKVcJ": {
+        "heading_cztVbQ": {
           "type": "heading",
           "settings": {
-            "heading": "Subscribe to our emails",
+            "heading": "Talk about your brand",
             "heading_size": "h1"
           }
         },
-        "paragraph_fnfnAK": {
-          "type": "paragraph",
+        "text_Pbgir3": {
+          "type": "text",
           "settings": {
-            "text": "<p>Be the first to know about new collections and exclusive offers.</p>"
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>"
           }
         },
-        "email_form_NGFHKr": {
-          "type": "email_form",
-          "settings": {}
+        "button_jVHR34": {
+          "type": "button",
+          "settings": {
+            "button_label": "Contact Us",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
         }
       },
       "block_order": [
-        "heading_gHKVcJ",
-        "paragraph_fnfnAK",
-        "email_form_NGFHKr"
+        "heading_cztVbQ",
+        "text_Pbgir3",
+        "button_jVHR34"
       ],
-      "name": "t:sections.newsletter.presets.name",
+      "name": "t:sections.rich-text.presets.name",
       "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 40,
@@ -184,6 +193,6 @@
     "featured_collection_t8tqTa",
     "1779693100aac0affa",
     "multicolumn_99tTBm",
-    "newsletter_g4dxaP"
+    "rich_text_PdKm43"
   ]
 }
