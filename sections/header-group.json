@@ -13,20 +13,19 @@
   "sections": {
     "announcement-bar": {
       "type": "announcement-bar",
-      "disabled": true,
       "blocks": {
-        "announcement-bar-0": {
+        "announcement_tp8PiQ": {
           "type": "announcement",
           "settings": {
-            "text": "Welcome to our store",
+            "text": "We are coming soon!",
             "text_alignment": "center",
             "color_scheme": "background-1",
-            "link": ""
+            "link": "shopify://pages/about"
           }
         }
       },
       "block_order": [
-        "announcement-bar-0"
+        "announcement_tp8PiQ"
       ],
       "settings": {}
     },
