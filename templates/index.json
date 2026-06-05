@@ -1,0 +1,117 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "6a3bb789-ce10-45f5-ae67-e2063ef8c76b": {
+      "type": "image-banner",
+      "blocks": {
+        "template--18309637636369__6a3bb789-ce10-45f5-ae67-e2063ef8c76b-168016437761699a6e-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Generated test data welcome to your store",
+            "heading_size": "h1"
+          }
+        },
+        "template--18309637636369__6a3bb789-ce10-45f5-ae67-e2063ef8c76b-168016437761699a6e-1": {
+          "type": "text",
+          "settings": {
+            "text": "A theme and populated test store by Shopify to help you test commerce primitives.",
+            "text_style": "body"
+          }
+        },
+        "template--18309637636369__6a3bb789-ce10-45f5-ae67-e2063ef8c76b-168016437761699a6e-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Shop products",
+            "button_link_1": "shopify://collections/all",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18309637636369__6a3bb789-ce10-45f5-ae67-e2063ef8c76b-168016437761699a6e-0",
+        "template--18309637636369__6a3bb789-ce10-45f5-ae67-e2063ef8c76b-168016437761699a6e-1",
+        "template--18309637636369__6a3bb789-ce10-45f5-ae67-e2063ef8c76b-168016437761699a6e-2"
+      ],
+      "custom_css": [],
+      "settings": {
+        "image": "shopify://shop_images/theme_cover_image.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-left",
+        "show_text_box": true,
+        "desktop_content_alignment": "left",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "1779693100aac0affa": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_091e30c_QETfRK": {
+          "type": "ai_gen_block_091e30c",
+          "settings": {
+            "background_color": "#0a0a0a",
+            "text_color": "#ffffff",
+            "hero_height": 90,
+            "hero_background": "#0a0a0a",
+            "hero_headline": "Security Reimagined",
+            "headline_size": 72,
+            "hero_subtext": "<p>Experience the future of home security with Sentrya's intelligent smart lock technology</p>",
+            "subtext_size": 20,
+            "hero_cta_text": "Explore Sentrya",
+            "hero_cta_link": "",
+            "product_image_radius": 16,
+            "product_title": "Sentrya Lock Pro",
+            "product_title_size": 48,
+            "product_description": "<p>Advanced biometric authentication, seamless smartphone integration, and military-grade encryption. Your home deserves the best protection.</p>",
+            "features_bg_color": "#121212",
+            "features_text_color": "#ffffff",
+            "features_heading": "Why Choose Sentrya",
+            "features_heading_size": 48,
+            "icon_size": 72,
+            "icon_bg_color": "#1a1a1a",
+            "icon_color": "#45c0b6",
+            "feature_1_title": "Bank-Level Security",
+            "feature_1_description": "Military-grade encryption protects your home with the same technology trusted by financial institutions.",
+            "feature_2_title": "Smart Integration",
+            "feature_2_description": "Seamlessly connects with your smartphone and smart home ecosystem for effortless control.",
+            "feature_3_title": "Always Protected",
+            "feature_3_description": "Real-time alerts and activity monitoring keep you informed wherever you are.",
+            "cta_section_bg": "#0a0a0a",
+            "cta_section_heading": "Ready to Upgrade Your Security?",
+            "cta_section_heading_size": 48,
+            "cta_section_text": "<p>Join thousands of homeowners who trust Sentrya to protect what matters most.</p>",
+            "cta_section_button_text": "Shop Now",
+            "cta_section_button_link": "",
+            "cta_bg_color": "#45c0b6",
+            "cta_text_color": "#000000",
+            "cta_border_radius": 4
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_091e30c_QETfRK"
+      ],
+      "settings": {}
+    }
+  },
+  "order": [
+    "6a3bb789-ce10-45f5-ae67-e2063ef8c76b",
+    "1779693100aac0affa"
+  ]
+}
