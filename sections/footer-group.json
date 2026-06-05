@@ -21,12 +21,6 @@
             "menu": "main-menu"
           }
         },
-        "6e0c08d4-cd4c-439c-b5e2-a483bba29ec2": {
-          "type": "brand_information",
-          "settings": {
-            "show_social": true
-          }
-        },
         "f95fe295-fbc2-4d2b-a952-72670c2ab328": {
           "type": "text",
           "settings": {
@@ -37,7 +31,6 @@
       },
       "block_order": [
         "55172ef6-3a6a-4cfa-b790-88739b47891f",
-        "6e0c08d4-cd4c-439c-b5e2-a483bba29ec2",
         "f95fe295-fbc2-4d2b-a952-72670c2ab328"
       ],
       "settings": {
